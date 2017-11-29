@@ -6,7 +6,7 @@
 // - User can choose the range of values from 1 to whichever integer they like to find the Lowest Common Multiple
 //
 // Limitations:
-// - Does not check if variables overflow, including input and output
+// - Does not check if variables overflow, including input and output (Overflow starts when user_input > 47)
 //
 
 #include <iostream>
